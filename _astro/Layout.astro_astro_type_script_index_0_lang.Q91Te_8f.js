@@ -1,0 +1,1 @@
+import{r as e}from"./hours.JBx-KZsB.js";e(),document.querySelectorAll(`[data-today-label]`).forEach(e=>e.textContent=`I dag`);
